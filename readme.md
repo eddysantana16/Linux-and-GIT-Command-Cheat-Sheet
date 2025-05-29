@@ -1,43 +1,45 @@
-## cd
-change directory
+# linux and git cheat sheet
 
-## pwd
-print working directory
-
-## mkdir
-create a new directory
-
-## rm
-Remove files or directories
-
-## grep
-search text in files
-
-## chmod
-change file permissions
-
-## git init
-Initialize a new git repository
+## 1s
+List files in a directory
+## cd 
+Change to another directory
 
 ## git status
-show current repository status
+Show the current state of git repo
+
+## pwd
+Prints the current directory path
+
+## mkdir
+Creates a new directory
+
+## rm
+Removes files or directories
+
+## touch
+Creates an empty file or updates time stamps
+
+## git init
+initialize a new Git repository
 
 ## git add
-stage files for commit
+Adds files to the staging area
 
 ## git commit
-commit staged changes
+Records changes to the repository
 
 ## git branch
-create or edit branch
+Lists, creates, or deletes branches
 
 ## git checkout
-switch to another branch
+Switches branches or restores files
+## merge
+Merges branches together
 
-## git merge
-merge a branch into the current branch
+## git pull
+Fetches and merges changes from a remote repository
 
 ## git push
-push commits to a remote repository
-
+Uploads local commits to a remote repository
 
