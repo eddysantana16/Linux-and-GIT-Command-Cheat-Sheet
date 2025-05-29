@@ -12,3 +12,6 @@ Remove files or directories
 
 ## grep
 search text in files
+
+## chmod
+change file permissions
