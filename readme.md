@@ -30,4 +30,7 @@ commit staged changes
 
 ## git branch
 
+## git checkout
+switch to another branch
+
 
