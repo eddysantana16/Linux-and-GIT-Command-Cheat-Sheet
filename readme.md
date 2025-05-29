@@ -29,8 +29,12 @@ stage files for commit
 commit staged changes
 
 ## git branch
+create or edit branch
 
 ## git checkout
 switch to another branch
+
+## git merge
+merge a branch into the current branch
 
 
