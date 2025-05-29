@@ -25,4 +25,7 @@ show current repository status
 ## git add
 stage files for commit
 
+## git commit
+commit staged changes
+
 
