@@ -19,3 +19,7 @@ change file permissions
 ## git init
 Initialize a new git repository
 
+## git status
+show current repository status
+
+
