@@ -37,4 +37,7 @@ switch to another branch
 ## git merge
 merge a branch into the current branch
 
+## git push
+push commits to a remote repository
+
 
