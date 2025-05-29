@@ -15,3 +15,7 @@ search text in files
 
 ## chmod
 change file permissions
+
+## git init
+Initialize a new git repository
+
