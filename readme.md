@@ -22,4 +22,7 @@ Initialize a new git repository
 ## git status
 show current repository status
 
+## git add
+stage files for commit
+
 
